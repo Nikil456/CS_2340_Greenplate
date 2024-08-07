@@ -1,6 +1,6 @@
 # GreenPlate
 
-Click the link below to access our showcase for this project!
+Click the link below to access our showcase for this project.
 
 https://nikil456.github.io/2340EC/
 
